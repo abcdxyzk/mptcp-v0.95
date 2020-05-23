@@ -1,3 +1,7 @@
+
+merge https://codeload.github.com/multipath-tcp/mptcp/zip/mptcp_v0.95
+into https://mirrors.edge.kernel.org/pub/linux/kernel/v4.x/linux-4.19.117.tar.gz
+
 Linux kernel
 ============
 

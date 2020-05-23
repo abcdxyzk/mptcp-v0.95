@@ -45,6 +45,8 @@
 Module.symvers
 modules.builtin
 
+!0001-add-mptcp-v0.95.patch
+
 #
 # Top-level generic files
 #
